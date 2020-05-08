@@ -1,11 +1,11 @@
 from PIL import Image, ImageFilter, ImageColor
 import sys
 
-def match_color(rgb, colors2):
+def match_color(rgb, colors2, isRelative):
     minIndex = 0
     minDiff = 800
     for i in range(0, len(colors2)):
-        relative = False
+        relative = isRelative
         comp = rgb
         if relative:
             sub = min(rgb[0], rgb[1], rgb[2])
@@ -81,15 +81,26 @@ base_color = 0
 inject_color = 0
 inject_val = 0
 inject_range = 0
+isRelative = False
+create_pallate = False
 for i in range(2, len(sys.argv)):
     if sys.argv[i] == "recolor":
         recolor = True
         pallate = sys.argv[i+1]
         colors = open("pallates/" + pallate, "r").read().split("\n")
+        try:
+            if sys.argv[i+2] == "true" or sys.argv[i+2] == "relative":
+                print("relative!!")
+                isRelative = True
+        except:
+            isRelative = False
         for color in colors:
-            rgb = color.split(",")
-            rgb_tup = int(rgb[0]), int(rgb[1]), int(rgb[2])
-            colors2.append(rgb_tup)
+            if colors[0][0] == "#":
+                colors2.append(ImageColor.getrgb(color))
+            else:
+                rgb = color.split(",")
+                rgb_tup = int(rgb[0]), int(rgb[1]), int(rgb[2])
+                colors2.append(rgb_tup)
     elif sys.argv[i] == "shade":
         isShade = True
         shade_val = int(sys.argv[i+1])
@@ -101,6 +112,8 @@ for i in range(2, len(sys.argv)):
         inject_color = sys.argv[i+2]
         inject_val = int(sys.argv[i+3])
         inject_range = int(sys.argv[i+4])
+    elif sys.argv[i] == "create_pallate":
+        create_pallate = True
 
 
 
@@ -119,9 +132,10 @@ for i in range(0, l):
         if isShade:
             rgb = shade(rgb, shade_val)
         if recolor:
-            rgb = match_color(rgb, colors2)
+            rgb = match_color(rgb, colors2, isRelative)
         if color_inject:
             rgb = color_inject_func(rgb, base_color, inject_color, inject_val, inject_range)
+
 
 
         im2.putpixel(point, rgb)
@@ -131,6 +145,7 @@ if isShade: tag += "_shade"
 if invert: tag += "_invert"
 if color_inject: tag += "_color_inject"
 
-newFileName = imageFile.split('.')[0] + tag + '.' + imageFile.split('.')[1]
+
+newFileName = imageFile.split(".")[0] + tag + '.' + imageFile.split('.')[1]
 print(newFileName)
 im2.save("images/"+newFileName)
