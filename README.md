@@ -4,3 +4,6 @@
   <li>filter.py - takes a collection of hex colors and replaces all the colors in an image with those colors, esentially recoloring the image.</li>
   <li>pallate_generator.py - takes an image and uses an implementation of k-means clustering to generate a list of n colors that make up that image.</li>
 </ul>
+
+## filter.py
+<p> python filter.py image commands </p> 
