@@ -1,69 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/filter.py" line="112" />
+    <bookmark url="file://$PROJECT_DIR$/filter.py" line="113" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15496662-bd15-4b76-9b90-e95f4824466d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/palette_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pallate_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/.idea/filter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/acoustic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/acoustic_grand_budapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/acoustic_grand_budapest_matrix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/bojack.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/bojack_grand_budapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/bojack_rbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_bw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_bw_grand_budapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_filter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_filter2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_filter3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_grand_budapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_grand_budapest.txt_invert.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_grand_budapest.txt_shade.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_grand_budapest_color_inject.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_invert.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_matrix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_matrix.txt_invert.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_og.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_rbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_shade.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_shade_grand_budapest.txt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/dsm_thought_provoking.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/iowa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/iowa_grand_budapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/iowa_matrix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/iowa_thought_provoking.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/loveless.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/loveless_filter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/loveless_matrix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/loveless_rbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc2_shade.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc_color_inject.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc_grand_budapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc_nyc_recolor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/nyc_shade.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy_filter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy_filter2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy_filter3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy_matrix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy_rbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/images/suitboy_thought_provoking.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/pallates/bw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/pallates/grand_budapest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/pallates/matrix.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/pallates/nyc_recolor.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/pallates/rbg.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter/pallates/thought_provoking.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/color_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,17 +22,32 @@
       <file leaf-file-name="filter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+            <state relative-caret-position="-32">
+              <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pallate_generator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="color_finder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/color_finder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pallate_generator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pallate_generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="101" column="15" lean-forward="true" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+            <state relative-caret-position="104">
+              <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -99,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/palette_generator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -123,9 +83,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/colors.txt" />
-        <option value="$PROJECT_DIR$/filter.py" />
         <option value="$PROJECT_DIR$/palette_generator.py" />
         <option value="$PROJECT_DIR$/pallate_generator.py" />
+        <option value="$PROJECT_DIR$/filter.py" />
+        <option value="$PROJECT_DIR$/color_finder.py" />
       </list>
     </option>
   </component>
@@ -139,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +111,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,6 +199,90 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pallate_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palette_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palette_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pallate_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palette_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pallate_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="15" lean-forward="true" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
@@ -388,27 +433,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/colors.txt" />
     <entry file="file://$PROJECT_DIR$/colors.txt" />
-    <entry file="file://$PROJECT_DIR$/filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/palette_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pallate_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="101" column="15" lean-forward="true" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+        <state relative-caret-position="104">
+          <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>

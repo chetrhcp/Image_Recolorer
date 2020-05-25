@@ -83,6 +83,7 @@ inject_val = 0
 inject_range = 0
 isRelative = False
 create_pallate = False
+get_color = False
 for i in range(2, len(sys.argv)):
     if sys.argv[i] == "recolor":
         recolor = True
@@ -114,6 +115,8 @@ for i in range(2, len(sys.argv)):
         inject_range = int(sys.argv[i+4])
     elif sys.argv[i] == "create_pallate":
         create_pallate = True
+    elif sys.argv[1] == "get_color":
+        get_color = true
 
 
 
